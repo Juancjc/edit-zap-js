@@ -1,6 +1,6 @@
 {
   "name": "edit-zap-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extensible WhatsApp message editor with a headless TypeScript core",
   "type": "module",
   "license": "MIT",
@@ -90,5 +90,24 @@
   },
   "engines": {
     "node": ">=22.13.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juancjc/edit-zap-js.git"
+  },
+  "homepage": "https://github.com/Juancjc/edit-zap-js#readme",
+  "bugs": {
+    "url": "https://github.com/Juancjc/edit-zap-js/issues"
+  },
+  "keywords": [
+    "whatsapp",
+    "editor",
+    "wysiwyg",
+    "rich-text",
+    "tiptap",
+    "typescript",
+    "vue",
+    "react",
+    "templates"
+  ]
 }
